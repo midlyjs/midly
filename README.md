@@ -1,5 +1,7 @@
 
-<center>![Midly Logo](https://github.com/midlyjs/midly/raw/master/midly.png)<br>Must kill koa)</center>
+<div align="center">
+
+![Midly Logo](https://github.com/midlyjs/midly/raw/master/midly.png)<br>Must kill koa)</div>
 
 ```js
 require('midly')()
