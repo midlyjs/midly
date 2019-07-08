@@ -1,5 +1,5 @@
 
-require('../lib/')()
+require('../lib/midly.js')()
 .use((req, res, ctx) => {
 	res.body = 'Hello world!'
 })
