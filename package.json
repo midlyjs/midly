@@ -2,7 +2,7 @@
   "name": "Midly",
   "version": "1.0.0",
   "description": "Must kill koa)",
-  "main": "/lib/index.js",
+  "main": "/lib/midly.js",
   "author": "midlyjs",
   "license": "MIT",
   "dependencies": {
