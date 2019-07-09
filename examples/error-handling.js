@@ -15,6 +15,6 @@ require('../lib/midly.js')()
 .listen(3000)
 .on('error', (req, res, ctx) => {
 	console.log(ctx.errors, res.code)
-	res.body = 'Oh yes, I caught them all:\n' + ctx.errors.join(',\n')
+	res.body = 'Oh yes, I caught them all:\n\n' + ctx.errors.join(',\n')
 })
 console.log('Midly started on port 3000')
