@@ -61,4 +61,5 @@ typings/
 .next
 
 yarn.lock
+*.md
 README.html
