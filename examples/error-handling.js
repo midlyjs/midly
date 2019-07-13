@@ -1,5 +1,5 @@
 
-require('../lib/midly.js')()
+require('../lib/midly')()
 .use((req, res, ctx) => {
 	ctx.error('error1')
 	ctx.errors.push(new Error('custom'))
