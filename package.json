@@ -1,14 +1,22 @@
 {
-  "name": "Midly",
+  "name": "midly",
   "version": "1.0.0",
   "description": "Must kill koa)",
   "main": "/lib/midly.js",
-  "author": "midlyjs",
+  "author": "midnightcoder",
   "license": "MIT",
   "dependencies": {
     "destroy": "^1.0.4",
     "fresh": "^0.5.2",
     "negotiator": "^0.6.2",
     "on-finished": "^2.3.0"
-  }
+  },
+  "keywords": [
+    "midly",
+    "middleware",
+    "framework",
+    "web",
+    "app",
+    "http"
+  ]
 }
