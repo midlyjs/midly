@@ -1,12 +1,14 @@
 
+
 <div align="center">
 
+![npm](https://img.shields.io/npm/v/midly.svg?color=green)
 ![Midly Logo](https://github.com/midlyjs/midly/raw/master/midly.logo.png)<br>Must kill koa)</div>
 
 ```js
 require('midly')()
 .use((req, res, ctx) => {
-  res.body = 'Hello world!'
+	res.body = 'Hello world!'
 })
 .listen(3000)
 console.log('Midly started on port 3000')
