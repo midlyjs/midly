@@ -1,10 +1,14 @@
 {
   "name": "midly",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Must kill koa)",
-  "main": "/lib/midly.js",
+  "main": "lib/midly.js",
   "author": "midnightcoder",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/midlyjs/midly.git"
+  },
   "dependencies": {
     "destroy": "^1.0.4",
     "fresh": "^0.5.2",
