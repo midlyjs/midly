@@ -2,10 +2,11 @@
 
 <div align="center">
 
-[![npm](https://img.shields.io/npm/v/midly.svg?color=green)](https://www.npmjs.com/package/midly)
-<br>
 
-![Midly Logo](https://github.com/midlyjs/midly/raw/master/midly.logo.png)<br>Must kill koa)</div>
+![Midly Logo](https://github.com/midlyjs/midly/raw/master/midly.logo.png)<br>Must kill koa)
+<br>[![npm](https://img.shields.io/npm/v/midly.svg?color=green)](https://www.npmjs.com/package/midly)
+
+</div>
 
 ```js
 require('midly')()
