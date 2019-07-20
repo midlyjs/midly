@@ -3,7 +3,7 @@
 <div align="center">
 
 ![npm](https://img.shields.io/npm/v/midly.svg?color=green)
-![Midly Logo](https://github.com/midlyjs/midly/raw/master/midly.logo.png)<br>Must kill koa)</div>
+<br>![Midly Logo](https://github.com/midlyjs/midly/raw/master/midly.logo.png)<br>Must kill koa)</div>
 
 ```js
 require('midly')()
