@@ -1,6 +1,6 @@
 {
   "name": "midly",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Must kill koa)",
   "main": "lib/midly.js",
   "author": "midnightcoder",
